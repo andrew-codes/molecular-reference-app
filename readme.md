@@ -1,4 +1,4 @@
-# Modular Redux Reference App with Subatomic
+# Modular Redux Reference App with Molecular-js
 
 This repository represents a reference app for best practices when developing a large, Redux based application. This reference is based on my own experiences and best practices and, as such, will be updated with new best practices as they are found/discovered.
 
@@ -12,7 +12,7 @@ This reference app is for front-end only and does not concern itself with a part
 * [Redux](https://github.com/reactjs/redux)
 * [Immutablejs](https://github.com/facebook/immutable-js)
 * [Reselect](https://github.com/reactjs/reselect)
-* [Subatomic](https://github.com/andrew-codes/subatomic)
+* [Molecular-js](https://github.com/andrew-codes/molecular)
 
 ## Application Architecture Breakdown
 
